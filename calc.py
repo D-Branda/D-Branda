@@ -9,3 +9,6 @@ def times(x,y):
 
 def div(x,y):
   return x/y
+
+def squarr(x):
+    return x*x

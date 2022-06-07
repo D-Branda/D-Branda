@@ -5,7 +5,7 @@ def sub(x,y):
   pass
 
 def times(x,y):
-  pass
+  return x*y
 
 def div(x,y):
   pass
